@@ -1,0 +1,19 @@
+{
+  "name": "Exercise3",
+  "main": "index.js",
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.3",
+    "angular-ui-router": "^0.2.18"
+  }
+}
